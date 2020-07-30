@@ -1,0 +1,18 @@
+.intro {
+    font-size: large;
+    width: 40em;
+}
+
+p {line-height: 2em;}
+
+.continue-link { text-decoration: none; color: blue; }
+.continue-link:hover { text-decoration: underline; color: blue; }
+.continue-link:visited { color: blue; }
+
+div.container6 {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+div.container6 p {
+  margin: 0 }
